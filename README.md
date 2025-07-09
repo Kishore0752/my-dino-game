@@ -35,6 +35,3 @@ Open your browser and go to `http://localhost:5173`.
 - Press `Space` or `↑` to jump.
 - Avoid obstacles to keep playing and increase your score.
 - View the leaderboard to see your best scores.
-
-## License
-This project is licensed under the MIT License.
